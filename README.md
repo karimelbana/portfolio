@@ -44,23 +44,9 @@ secondary school in Tanzania
 ## 📫 Let's Connect!
 
 - 📧 Email: contact@karimelbana.me
-- 🔗 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/karim-elbana)
-- 🐙 GitHub: [Your GitHub](https://github.com/karimelbana)
-- 🌐 Personal Website: [Your Portfolio Site](https://karimelbana.com)
-
-## 📫 Connect With Me
-
-<div align="left">
-  <a href="mailto:karim.elbana@datascience.me">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/yourusername">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?logo=github" alt="GitHub">
-  </a>
-</div>
+- 🔗 LinkedIn: [karim-elbana](https://linkedin.com/in/karim-elbana)
+- 🐙 GitHub: [karimelbana](https://github.com/karimelbana)
+- 🌐 Personal Website: [karimelbana.me](https://karimelbana.com)
 
 ## 🛠 Tech Stack
 
