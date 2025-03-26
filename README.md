@@ -1,4 +1,4 @@
-# Data Scientist
+# Karim Elbana
 
 <div align="center">
   <img src="/images/banner.jpeg">
