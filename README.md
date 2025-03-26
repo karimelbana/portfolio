@@ -1,4 +1,4 @@
-# Karim Elbana
+# Karim Elbana | Data Scientist
 
 <div align="center">
   <img src="/images/banner.jpeg">
@@ -50,7 +50,7 @@ secondary school in Tanzania
 
 ## 📫 Connect With Me
 
-<div align="center">
+<div align="left">
   <a href="mailto:karim.elbana@datascience.me">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail&logoColor=white" alt="Email">
   </a>
